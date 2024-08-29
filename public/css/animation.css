@@ -1,0 +1,1 @@
+@keyframes fadeIn{0%{opacity:0}100%{opacity:100}}@keyframes fadeOut{0%{opacity:100}100%{opacity:0}}@keyframes fadeFromBottom{0%{opacity:0}100%{opacity:1}}@keyframes tonext{75%,99%{left:0}95%,98%{left:100%}}@keyframes tostart{75%,99%{left:0}95%,98%{left:-300%}}@keyframes snap{100%,96%{scroll-snap-align:center}97%,99%{scroll-snap-align:none}}
